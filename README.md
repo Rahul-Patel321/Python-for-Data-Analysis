@@ -1,1 +1,1 @@
-# Python-for-Data-Analysis
+# Python-for-Data-Exploration-and-Analysis
